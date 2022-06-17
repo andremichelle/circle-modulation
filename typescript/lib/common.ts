@@ -5,6 +5,8 @@ import {Random} from "./math.js"
 
 export type NoArgType<T> = { new(): T }
 
+export const clamp = (min: number, max: number, value: number): number => Math.max(min, Math.min(max, value))
+
 export interface Terminable {
     terminate(): void
 }
