@@ -2,7 +2,7 @@
 
 Using circles as source for parameter modulation.
 
-[Open in](https://andremichelle.github.io/circle-modulation/) | **Chrome Only**
+[Open in](https://andremichelle.github.io/circle-modulation/) | **Chrome Safari Only**
 ![alt screenshot](screenshot.png)
 
 ### Build
